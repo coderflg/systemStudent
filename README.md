@@ -1,0 +1,2 @@
+# systemStudent
+A Django project
